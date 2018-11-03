@@ -1,7 +1,7 @@
 # NeuralNetwork
 Neural network and big data research project that predicts runescape stock trends, written in Java.
 
-The class NeuralNetworkF is the main class and is a feed-forward neural network that has customizable variables, such as:
+The class NeuralNetworkF is the main class and is a feed-forward neural network using back propogation that has customizable variables, such as:
   - Number of Hidden Layer
   - Number of neurons
   - Learning/momentum weights
