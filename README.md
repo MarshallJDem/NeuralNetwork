@@ -1,5 +1,5 @@
 # NeuralNetwork
-Neural network and big data research project that is made to be fully variable and customizable, written in Java.
+Neural network and big data research project that is made to be fully variable and customizable, written in Java. I made this when I was decently young, so it is pretty poorly written but still functional.
 
 The class NeuralNetworkF is the main class and is a feed-forward neural network using back propogation that has customizable variables, such as:
   - Number of Hidden Layer
